@@ -20,7 +20,7 @@ In this repository, you will find the specific files and code sections that I de
 
 - **inc/Helpers/TypeDefinitions.hpp**:
   - Acts as a central repository for type definitions used across the various services.
-  - 
+  
 ## Additional Resources
 The original ECSS Services repository can be found [here](https://gitlab.com/acubesat/obc/ecss-services) along with instructions on how to use the project.
 

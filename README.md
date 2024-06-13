@@ -3,7 +3,7 @@
 ## About
 The original AcubeSAT ECSS Services repository is open-source and continuously updated by the AcubeSAT team. However, to maintain the integrity of my thesis work and to provide a stable reference point, I have created this copy. This allows me to demonstrate the specific contributions I made without them being affected by ongoing updates from other team members.
 
-# Thesis Contributions
+## Thesis Contributions
 In this repository, you will find the specific files and code sections that I developed as part of my thesis work, focusing on the implementaion of the **ST[12]** ECCS Service. Below is a list of the key files and directories where my contributions are located:
 
 - **inc/Helpers/PMON.hpp​**
